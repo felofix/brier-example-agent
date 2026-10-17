@@ -1,0 +1,20 @@
+{"external_id": "t01", "instruction": "Sam has 12 apples and buys 3 bags of 7 apples each. How many apples does Sam have? Answer with only the number.", "ground_truth": {"answer": "33"}}
+{"external_id": "t02", "instruction": "A train travels 60 km per hour for 2.5 hours. How many kilometers does it travel? Answer with only the number.", "ground_truth": {"answer": "150"}}
+{"external_id": "t03", "instruction": "A box holds 24 eggs. How many eggs are in 15 boxes? Answer with only the number.", "ground_truth": {"answer": "360"}}
+{"external_id": "t04", "instruction": "Maria had 100 dollars and spent 37 dollars on books and 18 dollars on lunch. How many dollars are left? Answer with only the number.", "ground_truth": {"answer": "45"}}
+{"external_id": "t05", "instruction": "Four friends split a 148 dollar bill equally. How many dollars does each pay? Answer with only the number.", "ground_truth": {"answer": "37"}}
+{"external_id": "t06", "instruction": "A rectangle is 14 meters long and 9 meters wide. What is its area in square meters? Answer with only the number.", "ground_truth": {"answer": "126"}}
+{"external_id": "t07", "instruction": "A shop sells pens at 3 dollars each. How many dollars do 17 pens cost? Answer with only the number.", "ground_truth": {"answer": "51"}}
+{"external_id": "t08", "instruction": "A tank holds 500 liters and 175 liters are drained. How many liters remain? Answer with only the number.", "ground_truth": {"answer": "325"}}
+{"external_id": "t09", "instruction": "A class has 6 rows of 8 desks and 5 desks are removed. How many desks remain? Answer with only the number.", "ground_truth": {"answer": "43"}}
+{"external_id": "t10", "instruction": "A car uses 8 liters of fuel per 100 km. How many liters does it use for 250 km? Answer with only the number.", "ground_truth": {"answer": "20"}}
+{"external_id": "t11", "instruction": "What is the capital of France? Answer with only the name.", "ground_truth": {"answer": "Paris"}}
+{"external_id": "t12", "instruction": "What is the capital of Japan? Answer with only the name.", "ground_truth": {"answer": "Tokyo"}}
+{"external_id": "t13", "instruction": "What is the chemical symbol for gold? Answer with only the symbol.", "ground_truth": {"answer": "Au"}}
+{"external_id": "t14", "instruction": "Which planet is closest to the Sun? Answer with only the name.", "ground_truth": {"answer": "Mercury"}}
+{"external_id": "t15", "instruction": "What is the largest planet in our solar system? Answer with only the name.", "ground_truth": {"answer": "Jupiter"}}
+{"external_id": "t16", "instruction": "In what year did the Berlin Wall fall? Answer with only the number.", "ground_truth": {"answer": "1989"}}
+{"external_id": "t17", "instruction": "In what year did humans first land on the Moon? Answer with only the number.", "ground_truth": {"answer": "1969"}}
+{"external_id": "t18", "instruction": "What is the chemical symbol for sodium? Answer with only the symbol.", "ground_truth": {"answer": "Na"}}
+{"external_id": "t19", "instruction": "What is the capital of Australia? Answer with only the name.", "ground_truth": {"answer": "Canberra"}}
+{"external_id": "t20", "instruction": "How many days are in a leap year? Answer with only the number.", "ground_truth": {"answer": "366"}}

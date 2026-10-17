@@ -1,0 +1,100 @@
+{"external_id": "t001", "instruction": "Omar has 34 marbles and buys 5 bags of 5 marbles each. How many marbles does Omar have now? Answer with only the number.", "ground_truth": {"answer": "59"}, "stratum": "arithmetic"}
+{"external_id": "t002", "instruction": "Ravi had 84 stickers and gave away 18. Then a friend gave Ravi twice as many stickers as were given away. How many stickers does Ravi have? Answer with only the number.", "ground_truth": {"answer": "102"}, "stratum": "arithmetic"}
+{"external_id": "t003", "instruction": "A shelf holds 19 books. Theo fills 9 such shelves and then removes 18 books. How many books remain on the shelves? Answer with only the number.", "ground_truth": {"answer": "153"}, "stratum": "arithmetic"}
+{"external_id": "t004", "instruction": "Theo runs 9 km every day for 2 weeks. How many kilometers is that in total? Answer with only the number.", "ground_truth": {"answer": "126"}, "stratum": "arithmetic"}
+{"external_id": "t005", "instruction": "Ida has 21 marbles and buys 2 bags of 6 marbles each. How many marbles does Ida have now? Answer with only the number.", "ground_truth": {"answer": "33"}, "stratum": "arithmetic"}
+{"external_id": "t006", "instruction": "Nora had 69 stickers and gave away 14. Then a friend gave Nora twice as many stickers as were given away. How many stickers does Nora have? Answer with only the number.", "ground_truth": {"answer": "83"}, "stratum": "arithmetic"}
+{"external_id": "t007", "instruction": "A shelf holds 21 books. Lena fills 4 such shelves and then removes 8 books. How many books remain on the shelves? Answer with only the number.", "ground_truth": {"answer": "76"}, "stratum": "arithmetic"}
+{"external_id": "t008", "instruction": "Lena runs 17 km every day for 4 weeks. How many kilometers is that in total? Answer with only the number.", "ground_truth": {"answer": "476"}, "stratum": "arithmetic"}
+{"external_id": "t009", "instruction": "Ravi has 18 marbles and buys 5 bags of 10 marbles each. How many marbles does Ravi have now? Answer with only the number.", "ground_truth": {"answer": "68"}, "stratum": "arithmetic"}
+{"external_id": "t010", "instruction": "Theo had 75 stickers and gave away 33. Then a friend gave Theo twice as many stickers as were given away. How many stickers does Theo have? Answer with only the number.", "ground_truth": {"answer": "108"}, "stratum": "arithmetic"}
+{"external_id": "t011", "instruction": "A shelf holds 19 books. Ravi fills 4 such shelves and then removes 8 books. How many books remain on the shelves? Answer with only the number.", "ground_truth": {"answer": "68"}, "stratum": "arithmetic"}
+{"external_id": "t012", "instruction": "Omar runs 6 km every day for 5 weeks. How many kilometers is that in total? Answer with only the number.", "ground_truth": {"answer": "210"}, "stratum": "arithmetic"}
+{"external_id": "t013", "instruction": "Omar has 15 marbles and buys 3 bags of 5 marbles each. How many marbles does Omar have now? Answer with only the number.", "ground_truth": {"answer": "30"}, "stratum": "arithmetic"}
+{"external_id": "t014", "instruction": "Sam had 70 stickers and gave away 19. Then a friend gave Sam twice as many stickers as were given away. How many stickers does Sam have? Answer with only the number.", "ground_truth": {"answer": "89"}, "stratum": "arithmetic"}
+{"external_id": "t015", "instruction": "A shelf holds 47 books. Ravi fills 4 such shelves and then removes 8 books. How many books remain on the shelves? Answer with only the number.", "ground_truth": {"answer": "180"}, "stratum": "arithmetic"}
+{"external_id": "t016", "instruction": "Sam runs 13 km every day for 4 weeks. How many kilometers is that in total? Answer with only the number.", "ground_truth": {"answer": "364"}, "stratum": "arithmetic"}
+{"external_id": "t017", "instruction": "Ana has 26 marbles and buys 6 bags of 8 marbles each. How many marbles does Ana have now? Answer with only the number.", "ground_truth": {"answer": "74"}, "stratum": "arithmetic"}
+{"external_id": "t018", "instruction": "Theo had 86 stickers and gave away 20. Then a friend gave Theo twice as many stickers as were given away. How many stickers does Theo have? Answer with only the number.", "ground_truth": {"answer": "106"}, "stratum": "arithmetic"}
+{"external_id": "t019", "instruction": "A shelf holds 15 books. Ravi fills 9 such shelves and then removes 18 books. How many books remain on the shelves? Answer with only the number.", "ground_truth": {"answer": "117"}, "stratum": "arithmetic"}
+{"external_id": "t020", "instruction": "Mia runs 15 km every day for 5 weeks. How many kilometers is that in total? Answer with only the number.", "ground_truth": {"answer": "525"}, "stratum": "arithmetic"}
+{"external_id": "t021", "instruction": "How many meters are in 10 kilometers? Answer with only the number.", "ground_truth": {"answer": "10000"}, "stratum": "unit conversion"}
+{"external_id": "t022", "instruction": "How many minutes are in 5 hours? Answer with only the number.", "ground_truth": {"answer": "300"}, "stratum": "unit conversion"}
+{"external_id": "t023", "instruction": "How many grams are in 8 kilograms? Answer with only the number.", "ground_truth": {"answer": "8000"}, "stratum": "unit conversion"}
+{"external_id": "t024", "instruction": "How many seconds are in 10 minutes? Answer with only the number.", "ground_truth": {"answer": "600"}, "stratum": "unit conversion"}
+{"external_id": "t025", "instruction": "How many eggs are in 10 dozen? Answer with only the number.", "ground_truth": {"answer": "120"}, "stratum": "unit conversion"}
+{"external_id": "t026", "instruction": "How many meters are in 30 kilometers? Answer with only the number.", "ground_truth": {"answer": "30000"}, "stratum": "unit conversion"}
+{"external_id": "t027", "instruction": "How many minutes are in 11 hours? Answer with only the number.", "ground_truth": {"answer": "660"}, "stratum": "unit conversion"}
+{"external_id": "t028", "instruction": "How many grams are in 6 kilograms? Answer with only the number.", "ground_truth": {"answer": "6000"}, "stratum": "unit conversion"}
+{"external_id": "t029", "instruction": "How many seconds are in 4 minutes? Answer with only the number.", "ground_truth": {"answer": "240"}, "stratum": "unit conversion"}
+{"external_id": "t030", "instruction": "How many eggs are in 3 dozen? Answer with only the number.", "ground_truth": {"answer": "36"}, "stratum": "unit conversion"}
+{"external_id": "t031", "instruction": "How many meters are in 23 kilometers? Answer with only the number.", "ground_truth": {"answer": "23000"}, "stratum": "unit conversion"}
+{"external_id": "t032", "instruction": "How many minutes are in 11 hours? Answer with only the number.", "ground_truth": {"answer": "660"}, "stratum": "unit conversion"}
+{"external_id": "t033", "instruction": "How many grams are in 7 kilograms? Answer with only the number.", "ground_truth": {"answer": "7000"}, "stratum": "unit conversion"}
+{"external_id": "t034", "instruction": "How many seconds are in 4 minutes? Answer with only the number.", "ground_truth": {"answer": "240"}, "stratum": "unit conversion"}
+{"external_id": "t035", "instruction": "How many eggs are in 3 dozen? Answer with only the number.", "ground_truth": {"answer": "36"}, "stratum": "unit conversion"}
+{"external_id": "t036", "instruction": "How many meters are in 26 kilometers? Answer with only the number.", "ground_truth": {"answer": "26000"}, "stratum": "unit conversion"}
+{"external_id": "t037", "instruction": "How many minutes are in 6 hours? Answer with only the number.", "ground_truth": {"answer": "360"}, "stratum": "unit conversion"}
+{"external_id": "t038", "instruction": "How many grams are in 3 kilograms? Answer with only the number.", "ground_truth": {"answer": "3000"}, "stratum": "unit conversion"}
+{"external_id": "t039", "instruction": "How many seconds are in 2 minutes? Answer with only the number.", "ground_truth": {"answer": "120"}, "stratum": "unit conversion"}
+{"external_id": "t040", "instruction": "How many eggs are in 12 dozen? Answer with only the number.", "ground_truth": {"answer": "144"}, "stratum": "unit conversion"}
+{"external_id": "t041", "instruction": "What is the capital city of Norway? Answer with only the word.", "ground_truth": {"answer": "Oslo"}, "stratum": "capitals"}
+{"external_id": "t042", "instruction": "What is the capital city of Sweden? Answer with only the word.", "ground_truth": {"answer": "Stockholm"}, "stratum": "capitals"}
+{"external_id": "t043", "instruction": "What is the capital city of Finland? Answer with only the word.", "ground_truth": {"answer": "Helsinki"}, "stratum": "capitals"}
+{"external_id": "t044", "instruction": "What is the capital city of Denmark? Answer with only the word.", "ground_truth": {"answer": "Copenhagen"}, "stratum": "capitals"}
+{"external_id": "t045", "instruction": "What is the capital city of Iceland? Answer with only the word.", "ground_truth": {"answer": "Reykjavik"}, "stratum": "capitals"}
+{"external_id": "t046", "instruction": "What is the capital city of Portugal? Answer with only the word.", "ground_truth": {"answer": "Lisbon"}, "stratum": "capitals"}
+{"external_id": "t047", "instruction": "What is the capital city of Austria? Answer with only the word.", "ground_truth": {"answer": "Vienna"}, "stratum": "capitals"}
+{"external_id": "t048", "instruction": "What is the capital city of Poland? Answer with only the word.", "ground_truth": {"answer": "Warsaw"}, "stratum": "capitals"}
+{"external_id": "t049", "instruction": "What is the capital city of Hungary? Answer with only the word.", "ground_truth": {"answer": "Budapest"}, "stratum": "capitals"}
+{"external_id": "t050", "instruction": "What is the capital city of Greece? Answer with only the word.", "ground_truth": {"answer": "Athens"}, "stratum": "capitals"}
+{"external_id": "t051", "instruction": "What is the capital city of Japan? Answer with only the word.", "ground_truth": {"answer": "Tokyo"}, "stratum": "capitals"}
+{"external_id": "t052", "instruction": "What is the capital city of Canada? Answer with only the word.", "ground_truth": {"answer": "Ottawa"}, "stratum": "capitals"}
+{"external_id": "t053", "instruction": "What is the capital city of Australia? Answer with only the word.", "ground_truth": {"answer": "Canberra"}, "stratum": "capitals"}
+{"external_id": "t054", "instruction": "What is the capital city of Egypt? Answer with only the word.", "ground_truth": {"answer": "Cairo"}, "stratum": "capitals"}
+{"external_id": "t055", "instruction": "What is the capital city of Kenya? Answer with only the word.", "ground_truth": {"answer": "Nairobi"}, "stratum": "capitals"}
+{"external_id": "t056", "instruction": "What is the capital city of Peru? Answer with only the word.", "ground_truth": {"answer": "Lima"}, "stratum": "capitals"}
+{"external_id": "t057", "instruction": "What is the capital city of Chile? Answer with only the word.", "ground_truth": {"answer": "Santiago"}, "stratum": "capitals"}
+{"external_id": "t058", "instruction": "What is the capital city of Thailand? Answer with only the word.", "ground_truth": {"answer": "Bangkok"}, "stratum": "capitals"}
+{"external_id": "t059", "instruction": "What is the capital city of Turkey? Answer with only the word.", "ground_truth": {"answer": "Ankara"}, "stratum": "capitals"}
+{"external_id": "t060", "instruction": "What is the capital city of Ireland? Answer with only the word.", "ground_truth": {"answer": "Dublin"}, "stratum": "capitals"}
+{"external_id": "t061", "instruction": "What day of the week was 2022-06-16? Answer with only the weekday name.", "ground_truth": {"answer": "Thursday"}, "stratum": "calendar"}
+{"external_id": "t062", "instruction": "What day of the week was 2023-06-23? Answer with only the weekday name.", "ground_truth": {"answer": "Friday"}, "stratum": "calendar"}
+{"external_id": "t063", "instruction": "What day of the week was 2025-11-18? Answer with only the weekday name.", "ground_truth": {"answer": "Tuesday"}, "stratum": "calendar"}
+{"external_id": "t064", "instruction": "What day of the week was 2022-06-05? Answer with only the weekday name.", "ground_truth": {"answer": "Sunday"}, "stratum": "calendar"}
+{"external_id": "t065", "instruction": "What day of the week was 2026-05-16? Answer with only the weekday name.", "ground_truth": {"answer": "Saturday"}, "stratum": "calendar"}
+{"external_id": "t066", "instruction": "What day of the week was 2024-01-03? Answer with only the weekday name.", "ground_truth": {"answer": "Wednesday"}, "stratum": "calendar"}
+{"external_id": "t067", "instruction": "What day of the week was 2023-09-29? Answer with only the weekday name.", "ground_truth": {"answer": "Friday"}, "stratum": "calendar"}
+{"external_id": "t068", "instruction": "What day of the week was 2025-02-09? Answer with only the weekday name.", "ground_truth": {"answer": "Sunday"}, "stratum": "calendar"}
+{"external_id": "t069", "instruction": "What day of the week was 2020-02-21? Answer with only the weekday name.", "ground_truth": {"answer": "Friday"}, "stratum": "calendar"}
+{"external_id": "t070", "instruction": "What day of the week was 2021-04-12? Answer with only the weekday name.", "ground_truth": {"answer": "Monday"}, "stratum": "calendar"}
+{"external_id": "t071", "instruction": "What day of the week was 2025-05-01? Answer with only the weekday name.", "ground_truth": {"answer": "Thursday"}, "stratum": "calendar"}
+{"external_id": "t072", "instruction": "What day of the week was 2022-02-28? Answer with only the weekday name.", "ground_truth": {"answer": "Monday"}, "stratum": "calendar"}
+{"external_id": "t073", "instruction": "What day of the week was 2025-11-21? Answer with only the weekday name.", "ground_truth": {"answer": "Friday"}, "stratum": "calendar"}
+{"external_id": "t074", "instruction": "What day of the week was 2021-05-02? Answer with only the weekday name.", "ground_truth": {"answer": "Sunday"}, "stratum": "calendar"}
+{"external_id": "t075", "instruction": "What day of the week was 2026-09-05? Answer with only the weekday name.", "ground_truth": {"answer": "Saturday"}, "stratum": "calendar"}
+{"external_id": "t076", "instruction": "What day of the week was 2022-05-06? Answer with only the weekday name.", "ground_truth": {"answer": "Friday"}, "stratum": "calendar"}
+{"external_id": "t077", "instruction": "What day of the week was 2020-06-28? Answer with only the weekday name.", "ground_truth": {"answer": "Sunday"}, "stratum": "calendar"}
+{"external_id": "t078", "instruction": "What day of the week was 2024-05-15? Answer with only the weekday name.", "ground_truth": {"answer": "Wednesday"}, "stratum": "calendar"}
+{"external_id": "t079", "instruction": "What day of the week was 2021-03-02? Answer with only the weekday name.", "ground_truth": {"answer": "Tuesday"}, "stratum": "calendar"}
+{"external_id": "t080", "instruction": "What day of the week was 2024-06-28? Answer with only the weekday name.", "ground_truth": {"answer": "Friday"}, "stratum": "calendar"}
+{"external_id": "t081", "instruction": "How many times does the letter 'r' appear in the word 'strawberry'? Answer with only the number.", "ground_truth": {"answer": "3"}, "stratum": "text"}
+{"external_id": "t082", "instruction": "How many times does the letter 's' appear in the word 'mississippi'? Answer with only the number.", "ground_truth": {"answer": "4"}, "stratum": "text"}
+{"external_id": "t083", "instruction": "How many times does the letter 'e' appear in the word 'bookkeeper'? Answer with only the number.", "ground_truth": {"answer": "3"}, "stratum": "text"}
+{"external_id": "t084", "instruction": "How many times does the letter 't' appear in the word 'committee'? Answer with only the number.", "ground_truth": {"answer": "2"}, "stratum": "text"}
+{"external_id": "t085", "instruction": "How many times does the letter 'l' appear in the word 'parallel'? Answer with only the number.", "ground_truth": {"answer": "3"}, "stratum": "text"}
+{"external_id": "t086", "instruction": "How many times does the letter 'a' appear in the word 'banana'? Answer with only the number.", "ground_truth": {"answer": "3"}, "stratum": "text"}
+{"external_id": "t087", "instruction": "How many times does the letter 's' appear in the word 'assessment'? Answer with only the number.", "ground_truth": {"answer": "4"}, "stratum": "text"}
+{"external_id": "t088", "instruction": "How many times does the letter 'p' appear in the word 'pepper'? Answer with only the number.", "ground_truth": {"answer": "3"}, "stratum": "text"}
+{"external_id": "t089", "instruction": "How many times does the letter 'l' appear in the word 'balloon'? Answer with only the number.", "ground_truth": {"answer": "2"}, "stratum": "text"}
+{"external_id": "t090", "instruction": "How many times does the letter 'c' appear in the word 'coconut'? Answer with only the number.", "ground_truth": {"answer": "2"}, "stratum": "text"}
+{"external_id": "t091", "instruction": "Spell the word 'planet' backwards. Answer with only the word.", "ground_truth": {"answer": "tenalp"}, "stratum": "text"}
+{"external_id": "t092", "instruction": "Spell the word 'garden' backwards. Answer with only the word.", "ground_truth": {"answer": "nedrag"}, "stratum": "text"}
+{"external_id": "t093", "instruction": "Spell the word 'window' backwards. Answer with only the word.", "ground_truth": {"answer": "wodniw"}, "stratum": "text"}
+{"external_id": "t094", "instruction": "Spell the word 'silver' backwards. Answer with only the word.", "ground_truth": {"answer": "revlis"}, "stratum": "text"}
+{"external_id": "t095", "instruction": "Spell the word 'orange' backwards. Answer with only the word.", "ground_truth": {"answer": "egnaro"}, "stratum": "text"}
+{"external_id": "t096", "instruction": "Spell the word 'rocket' backwards. Answer with only the word.", "ground_truth": {"answer": "tekcor"}, "stratum": "text"}
+{"external_id": "t097", "instruction": "Spell the word 'candle' backwards. Answer with only the word.", "ground_truth": {"answer": "eldnac"}, "stratum": "text"}
+{"external_id": "t098", "instruction": "Spell the word 'forest' backwards. Answer with only the word.", "ground_truth": {"answer": "tserof"}, "stratum": "text"}
+{"external_id": "t099", "instruction": "Spell the word 'bridge' backwards. Answer with only the word.", "ground_truth": {"answer": "egdirb"}, "stratum": "text"}
+{"external_id": "t100", "instruction": "Spell the word 'yellow' backwards. Answer with only the word.", "ground_truth": {"answer": "wolley"}, "stratum": "text"}
